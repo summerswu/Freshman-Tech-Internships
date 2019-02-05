@@ -40,7 +40,23 @@ Application Process: need to connect on linkedin account to sign up
 
 Note: Not really a "prestigious" internship per say but nevertherless a good experience
 
-https://www.facebook.com/careers/students-and-grads/students
+https://www.garysguide.com/jobs/put6l6q/Pinterest-Engage-Scholars-Program-at-Pinterest-San-Francisco-CA
+
+#### 3. IBM Extreme Blue 
+
+Technical Requirements: 
+
+- US requirments is different from Canadian requirement
+
+Application Open Date: 
+
+Application Due Date: 
+
+Application Process: 
+
+Note: 
+
+
 
 
 
