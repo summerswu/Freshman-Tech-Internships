@@ -2,7 +2,8 @@
 
 A compilation of established fresman internship programs from the US and Canada, these are ordererd in no particular order given the low amount of internships available, a more comprehensive excel list of tech internships with their respective application deadline, year level requried, and links will be updated at a later date
 
-### If you don't have US citizenship, the chances of you getting one of the US internship will be dimimished,but don't be discouraged and shoot your shot
+
+### If you don't have US citizenship, the chances of you getting one of the US internship will be dimimished,but don't be discouraged and shoot your shot. Furthermore, a lot of the internships listed below are actually for US legal workers only, but they are listed just in case any incoming freshman are legal US residents. 
 
 ##### remember to check you working status as "illegal" when applying for US Internships
 
@@ -42,11 +43,40 @@ Note: Not really a "prestigious" internship per say but nevertherless a good exp
 
 https://www.garysguide.com/jobs/put6l6q/Pinterest-Engage-Scholars-Program-at-Pinterest-San-Francisco-CA
 
-#### 3. IBM Extreme Blue 
+#### 3. IBM Extreme Blue  //No Sponsorship
 
 Technical Requirements: 
 
 - US requirments is different from Canadian requirement
+- US
+
+Application Open Date: 
+
+Application Due Date: 
+
+Application Process: 
+
+Note: 
+
+#### 4. UberSTAR
+
+Technical Requirements: 
+
+- 
+
+Application Open Date: 
+
+Application Due Date: 
+
+Application Process: 
+
+Note: 
+
+#### 5. Microsfot Explore 
+
+Technical Requirements: 
+
+- 
 
 Application Open Date: 
 
