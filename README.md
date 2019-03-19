@@ -48,13 +48,17 @@ https://www.garysguide.com/jobs/put6l6q/Pinterest-Engage-Scholars-Program-at-Pin
 Technical Requirements: 
 
 - US requirments is different from Canadian requirement
-- US
 
-Application Open Date: 
+Demonstrated passion for technology, business and technical community (i.e. contribution to open source, volunteerism, programming contests, start up interest / experience)
+Proven strong programming skills with a minimum of 8 months of industry experience (i.e. other co-op terms)
+Ability to take ownership of an idea and design it into reality
+Strong communication and leadership skills with an aptitude for collaborative team work
 
-Application Due Date: 
+Application Open Date: Unknown 
 
-Application Process: 
+Application Due Date: Jan 31 2019
+
+Application Process: https://careers.ibm.com/ShowJob/Id/394453/Extreme-Blue-Technical-Coop-(Ottawa-or-Toronto,-ON)/ apply directly on the IBM site
 
 Note: 
 
