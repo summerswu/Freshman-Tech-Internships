@@ -66,11 +66,17 @@ Note:
 
 Technical Requirements: 
 
-- 
+- Currently enrolled in an accredited 4-year institution in North America in pursuit of a bachelor’s degree
+Freshman or sophomore year class standing at time of application
+- Completed an introduction to Computer Science or equivalent
+- Completed calculus or equivalent
+- Passionate about your work and a desire to have a big impact. Your job will matter – you will never be bored
+- Must be collaborative and excited to operate in a fast-paced environment
+Enthusiastic about Uber
 
 Application Open Date: 
 
-Application Due Date: 
+Application Due Date: Dates are unknow at the moment, they took all info off once the process is finished, ideally start looking before December
 
 Application Process: 
 
@@ -80,7 +86,10 @@ Note:
 
 Technical Requirements: 
 
-- 
+- Must be freshman or sophomore student, currently enrolled in a bachelor’s degree program within the United States, Canada or Mexico.
+- Demonstrated interest in majoring in computer science, computer engineering, software engineering or related technical major.
+- Completed an Introduction to Computer Science course (or equivalent class) as well as one semester of calculus (or equivalent) by the start of the program.
+- Demonstrated interest in the software industry.
 
 Application Open Date: 
 
@@ -88,7 +97,7 @@ Application Due Date:
 
 Application Process: 
 
-Note: 
+Note: Pretty sure you can do this one in Vancouver, that's the good part, in the past I have only seen second year Canadian students accepted. However, sample size of my personal experience is small and theoretically you can get in if you are a freshman
 
 #### 6. Amazon Future Engineer 
 
