@@ -113,6 +113,8 @@ Application Process:
 
 Note: 
 
+https://www.amazon.jobs/en/landing_pages/amazonfutureengineer
+https://www.youtube.com/watch?v=hWsxyvjfHvw
 
 
 
