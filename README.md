@@ -116,6 +116,35 @@ Note:
 https://www.amazon.jobs/en/landing_pages/amazonfutureengineer
 https://www.youtube.com/watch?v=hWsxyvjfHvw
 
+#### 7. Google Engineering Practicum Intern *one of the more prestigious ones 
+
+Technical Requirements: 
+
+- 
+
+Application Open Date: 
+
+Application Due Date: 
+
+Application Process: 
+
+Note: 
+https://careers.google.com/jobs/results/5688825462194176-engineering-practicum-intern-summer-2019/?jid=15055001&page=2
+
+#### 8. Google Summer of Code *not really an internship, open source project kind of deal 
+
+Technical Requirements: 
+
+- 
+
+Application Open Date: 
+
+Application Due Date: 
+
+Application Process: 
+
+Note: 
+https://summerofcode.withgoogle.com/
 
 
 
