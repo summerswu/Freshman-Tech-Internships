@@ -174,7 +174,7 @@ Application Process:
 
 Note: Two Sigma might not sponsor Canadians, especially not Canadian freshman
 https://www.linkedin.com/jobs/view/freshman-software-engineering-internship-at-two-sigma-979966093/
-
+https://oeop.mit.edu/sites/default/files/images/TS_HoustonInternship%20One%20Pager_v1.pdf
 
 
 
