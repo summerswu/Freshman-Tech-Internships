@@ -120,7 +120,15 @@ https://www.youtube.com/watch?v=hWsxyvjfHvw
 
 Technical Requirements: 
 
-- 
+- Minimum qualifications:
+• Must be a first-year or second-year undergraduate student currently pursuing a Bachelors degree in Computer Science or a related technical field at a 4-year university in North America, with an anticipated graduation date between April 2020 and August 2021.
+• Programming experience in one or more of the following languages: Java, Python, C or C++ or JavaScript.
+• First-year students must have taken one college level Computer Science course by end of first semester. (AP or IB Computer Science is acceptable).
+• Students must be available for a 12-week internship from May 2018 to August 2018 or June 2018 to September 2018.
+
+Preferred qualifications:
+• Second-year students should have taken two Computer Science courses.
+
 
 Application Open Date: 
 
@@ -135,22 +143,28 @@ https://careers.google.com/jobs/results/5688825462194176-engineering-practicum-i
 
 Technical Requirements: 
 
-- 
+- Strong technical expertise required, you are essentially competeing with students around the world since this is a remote project 
+- Collaborating Organization Lists are released quite early, making a few contributions on github towards their open source project would be tremendously helpful 
 
 Application Open Date: 
 
 Application Due Date: 
 
-Application Process: 
+Application Process: Really really time consuming application, you have to submit a proposal based on the need of collaborating organization, read more about it on their website
 
-Note: 
+Note:Lots of extremely competent students from India submit their proposals, so competition is fierce. Don't use this as your last resort, you should apply to gain extra experience on top of your existing full-time summer internship 
 https://summerofcode.withgoogle.com/
 
 #### 9. Two Sigma Freshman Internships in Houston Office
 
 Technical Requirements: 
 
-- 
+- You must be a current freshman enrolled in a 4-year Bachelor’s program, majoring or intending to major in Computer Science.
+- By the end of your first year, you must have completed at least two Computer Science courses (AP or IB Computer Science taken during high school can count as one class).
+- Programming experience in at least one of the following languages: Java, C, C++, Python, Ruby, Perl, or other languages that target the JVM.
+- Strong analytical and organizational skills.
+- A drive to build quality software.
+- While we analyze the data-rich domain of finance, financial experience is not a requirement.
 
 Application Open Date: 
 
@@ -158,7 +172,7 @@ Application Due Date:
 
 Application Process: 
 
-Note: 
+Note: Two Sigma might not sponsor Canadians, especially not Canadian freshman
 https://www.linkedin.com/jobs/view/freshman-software-engineering-internship-at-two-sigma-979966093/
 
 
