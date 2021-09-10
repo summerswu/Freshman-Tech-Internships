@@ -82,7 +82,7 @@ Application Process:
 
 Note: 
 
-#### 5. Microsfot Explore 
+#### 5. Microsoft Explore 
 
 Technical Requirements: 
 
